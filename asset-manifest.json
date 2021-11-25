@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Electro-website/static/css/main.d2a21827.chunk.css",
+    "main.js": "/Electro-website/static/js/main.074cf0e1.chunk.js",
+    "main.js.map": "/Electro-website/static/js/main.074cf0e1.chunk.js.map",
+    "runtime-main.js": "/Electro-website/static/js/runtime-main.5eedb677.js",
+    "runtime-main.js.map": "/Electro-website/static/js/runtime-main.5eedb677.js.map",
+    "static/css/2.383c0125.chunk.css": "/Electro-website/static/css/2.383c0125.chunk.css",
+    "static/js/2.edafc53b.chunk.js": "/Electro-website/static/js/2.edafc53b.chunk.js",
+    "static/js/2.edafc53b.chunk.js.map": "/Electro-website/static/js/2.edafc53b.chunk.js.map",
+    "static/js/3.c083aab7.chunk.js": "/Electro-website/static/js/3.c083aab7.chunk.js",
+    "static/js/3.c083aab7.chunk.js.map": "/Electro-website/static/js/3.c083aab7.chunk.js.map",
+    "index.html": "/Electro-website/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Electro-website/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.d2a21827.chunk.css.map": "/Electro-website/static/css/main.d2a21827.chunk.css.map",
+    "static/js/2.edafc53b.chunk.js.LICENSE.txt": "/Electro-website/static/js/2.edafc53b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eedb677.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.edafc53b.chunk.js",
+    "static/css/main.d2a21827.chunk.css",
+    "static/js/main.074cf0e1.chunk.js"
+  ]
+}
